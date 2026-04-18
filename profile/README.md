@@ -82,7 +82,7 @@ We evaluate using ranking metrics:
 
 ---
 
-## 📈 Results
+## 📈 Results Comparison
 
 Performance comparison across datasets is presented in the report with analysis of:
 
@@ -90,4 +90,5 @@ Performance comparison across datasets is presented in the report with analysis 
 - Strengths and weaknesses of each model
 - Resource consumption vs performance trade-off
 
+![alt text](image.png)
 ---
